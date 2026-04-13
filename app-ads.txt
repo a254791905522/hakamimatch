@@ -128,14 +128,14 @@ appnexus.com, 12622, RESELLER
 trustedstack.com, TS677PGY3, RESELLER
 blueseasx.com, 203620, RESELLER, 7998eac5087f6110
 ignitemediatech.com, pub_61317, RESELLER
-yandex.com, 320102129, DIRECT
+yandex.com, 323459413, DIRECT
 kidoz.net, 15614, RESELLER, a109366414b7335e
 video.unrulymedia.com, 2444764291, RESELLER
 triplelift.com, 13423, RESELLER, 6c33edb13117fd86
 display.io, 156748, RESELLER
 pubmatic.com, 167323, RESELLER, 5d62403b186f2ace
 my-cast.tv, 987137, RESELLER, 8c33fe1bd714ffd7
-yango-ads.com, 320102129, DIRECT
+yango-ads.com, 323459413, DIRECT
 app-stock.com, 509221, RESELLER, ed8c126ea5971415
 conversantmedia.com, 100358, RESELLER, 03113cd04947736d
 adyoulike.com, f3d16fa10382ca99dca498bd4e9659c4, RESELLER
@@ -179,7 +179,6 @@ lijit.com, 551525, RESELLER, fafdf38b16bf6b2b
 bidmachine.io, 1201, RESELLER
 themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d
 bold-win.com, 1080, RESELLER, 71746737d0bab951
-google.com, pub-9703472790979642, DIRECT, f08c47fec0942fa0
 zetaglobal.net, 689, RESELLER
 adingo.jp, 33045, RESELLER
 rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
@@ -340,3 +339,4 @@ spinx.biz, 1373698890, RESELLER
 video.unrulymedia.com, 475093422, RESELLER
 rubiconproject.com, 27714, RESELLER, 0bfd66d529a55807
 orbrx.ai, 8000869124, RESELLER
+google.com, pub-2117028067968622, DIRECT, f08c47fec0942fa0
